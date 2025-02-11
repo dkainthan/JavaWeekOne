@@ -14,3 +14,6 @@ public class Comments {
     }
     
 }
+
+/* if you want to write a detailed comments, and it wraps around the screen, use this block style commenting 
+*/
