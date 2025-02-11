@@ -1,6 +1,6 @@
 /**************************
  * Project:Demo for Comments 
- * Programer: Diua Kainthan 
+ * Programer: Diya Kainthan 
  * Date: Febuary 11th, 2025
  * Program Name: Comments.java
  **************************/
